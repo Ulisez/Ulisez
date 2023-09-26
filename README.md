@@ -1,12 +1,9 @@
-<div id="header" align="center">
-  <img src="https://github.com/Ulisez/Ulisez/blob/profile/profile.svg" width="800" height="400" />
+<div id="header" align="left">
+  <img src="https://github.com/Ulisez/Ulisez/blob/profile/avatar.png"/>
+  <img />
 </div>
 
-- 👋 Hi, I’m @Ulisez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Ulisez/Ulisez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
