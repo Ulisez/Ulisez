@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400"  xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
             .container{
                 display: flex;
@@ -17,7 +17,7 @@
             }
             .avatar{
                 /* height: 400px; */
-                margin: -100px 0px 0px -150px;
+<!--                 margin: -100px 0px 0px -150px; -->
                 justify-content: start;
                 /* min-width: 70%; */
             }
@@ -31,7 +31,7 @@
         </style>
         <div class="container">
             <div class="about-me">
-                <img class="avatar" src="https://github.com/Ulisez/Ulisez/blob/profile/avatar.png" alt="avatar"/>
+                <img class="avatar" src="https://unsplash.com/it/foto/un-cane-marrone-che-giace-sopra-un-divano-bianco-nE3Use07O9Q" alt="avatar"/>
                 <div class="presentation">
                     <h1>Hi,welcome!👋</h1>
                 </div>
