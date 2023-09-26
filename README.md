@@ -1,5 +1,7 @@
 <div id="header" align="left">
   <img src="https://github.com/Ulisez/Ulisez/blob/profile/avatar.png"/>
+</div>
+<div id="aboutme" align="right">
   <img  src="https://github.com/Ulisez/Ulisez/blob/profile/profile.svg" />
 </div>
 
