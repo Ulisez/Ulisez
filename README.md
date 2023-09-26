@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://github.com/Ulisez/Ulisez/blob/main/me-avatar.png"/>
+</div>
+
 - 👋 Hi, I’m @Ulisez
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
