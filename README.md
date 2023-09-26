@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Ulisez/Ulisez/blob/main/me-avatar.png"/>
+  <img src="https://github.com/Ulisez/Ulisez/blob/profile/profile.svg"/>
 </div>
 
 - 👋 Hi, I’m @Ulisez
