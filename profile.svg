@@ -1,96 +1,114 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400"  xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 400" width="1200" height="400"  xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
-            body{margin:0;display:flex;flex-direction:column;justify-content:center;align-items:center;height:100vh;padding-left:224px;padding-right:224px;box-sizing:border-box}.w-cmd{width:100%;height:400px;background-color:#00203d;border:1px solid #ccc;display:flex;flex-direction:column}.w-cmd .cmd-header{background-color:transparent;width:100%;height:15%;display:flex;flex-direction:row;justify-content:space-between;justify-items:center}.w-cmd .cmd-header .h-actions{display:flex;min-width:100%;height:70%;background-color:#272727;justify-content:space-evenly}.w-cmd .cmd-header .h-actions--l{width:33%;display:flex;text-align:center;align-items:center;padding-left:24px}.w-cmd .cmd-header .h-actions--l .add-cmd{width:25px;height:25px;display:flex;justify-content:center;align-items:center;color:#ccc;font-size:16px;font-weight:700;background-color:rgba(117,117,117,.562)}.w-cmd .cmd-header .h-actions--c{width:33%;display:flex;text-align:center;height:100%;color:#ccc;font-size:18px;font-weight:500;justify-content:center;align-items:center}.w-cmd .cmd-header .h-actions--c .waving-hand{display:inline-block;animation:1.5s infinite wave}.w-cmd .cmd-header .h-actions--r{width:33%;display:flex;flex-direction:row;align-items:center;justify-content:end;padding-right:24px}.w-cmd .cmd-header .h-actions--r .cmd-act{display:flex;justify-content:center;align-items:center;height:25px;width:25px;cursor:pointer;margin-right:4px;margin-left:4px;background-color:rgba(117,117,117,.562);border-radius:50%}.w-cmd .cmd-header .h-actions--r .cmd-act--cmd-act--zoomin ::after{width:15px;height:15px;border:1px solid #fff}.w-cmd .cmd-body{height:75%;width:100%;display:flex;flex-direction:column}.w-cmd .cmd-body .cmd-command{position:relative;padding-left:8px;font-size:15px;font-weight:600}.w-cmd .cmd-body .cmd-command .terminal-name{color:#58d46d}.w-cmd .cmd-body .cmd-command .prefix{color:#e0de54}.w-cmd .cmd-body .cmd-command .row-1{color:#bfe02a;font-size:16px;font-weight:700}.w-cmd .cmd-body .cmd-command .row-2{color:#d49a1d;font-size:16px;font-weight:700}.w-cmd .cmd-body .cmd-command .row-3{color:#da4520;font-size:16px;font-weight:700}.w-cmd .cmd-body .cmd-command .writing-aboutme{position:relative;color:#ccc;padding:0;margin:0;word-spacing:0%;white-space:unset}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command{position:relative;z-index:1;left:0}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command .w-one{opacity:0;animation:.5s 3s forwards display}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command .w-two{opacity:0;animation:.5s 3.5s forwards display}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command .w-three{opacity:0;animation:.5s 4s forwards display}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command .w-four{opacity:0;animation:.5s 4.5s forwards display}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command .w-five{opacity:0;animation:.5s 5s forwards display}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command .w-six{opacity:0;animation:.5s 5.5s forwards display}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command .w-seven{opacity:0;animation:.5s 6s forwards display}.w-cmd .cmd-body .cmd-command .writing-aboutme .all-command .w-eight{opacity:0;animation:.5s 6.5s forwards display}.w-cmd .cmd-body .cmd-command .writing-aboutme .bar{background:#ccc;display:inline-block;width:8px;height:16px;position:absolute;bottom:1px}.w-cmd .cmd-body .cmd-command .writing-aboutme .bar.infinite{animation:1s infinite write-animation;margin-left:4px}.w-cmd .cmd-body .cmd-command .writing-aboutme .bar-start{position:absolute;animation:1s 3 forwards write-animation}.w-cmd .cmd-body .cmd-command .writing-aboutme .bar-middle{background-color:transparent;animation:6s 3.5s forwards show-move}.w-cmd .cmd-body .cmd-command.end{opacity:0;animation:.5s 9s forwards opacity;position:relative;top:-120px}.w-cmd .cmd-body--detail{opacity:0;display:flex;flex-direction:row;animation:.5s 8.5s forwards opacity}@keyframes opacity{from{opacity:0}to{opacity:1}}.w-cmd .cmd-body--detail .info{display:flex;flex-direction:column;color:rgba(247,247,245,.9176470588);font-weight:500;position:relative;font-size:14px;top:-30px;left:-130px}.w-cmd .cmd-body--detail .info .json-c{font-weight:600;color:#0575dd}.w-cmd .cmd-body--detail .info .json-c--name{font-weight:600;color:#91dd05}.w-cmd .cmd-body--detail .info .json-value{color:#58d46d}.w-cmd .cmd-body .preview-banner{font-family:monospace;white-space:pre;color:#04ce04;font-weight:700;max-width:40%}.w-cmd .cmd-body .preview-banner--end{position:relative;padding:0;color:#07bff7;top:-35px;left:-60px}.w-cmd .cmd-body .preview-banner--end .end-banner{display:inline-block;top:-100px;left:45px;position:relative}@keyframes write-animation{0%,20%{background-color:#fff}100%,40%,60%{background-color:rgba(255,255,255,0)}}@keyframes display{from{opacity:0}to{opacity:1}}@keyframes wave{0%,100%,20%,50%,80%{transform:rotate(0)}40%{transform:rotate(-30deg)}60%{transform:rotate(30deg)}}@keyframes show-move{0%{background-color:transparent;left:5px}7%{background-color:#ccc;left:15px}14%{background-color:#ccc;left:25px}21%{background-color:#ccc;left:32px}28%{background-color:#ccc;left:45px}35%{background-color:#ccc;left:55px}42%{background-color:#ccc;left:56px}49%{background-color:#ccc;left:70px}56%{background-color:#ccc;left:84px}100%,65%{left:84px;background-color:transparent}}
+.c-cmd {
+  width: 100%;
+  height: 400px;
+  background-color: rgb(0, 32, 61); /* Background color with transparency (rgba) based on github background */
+  border: 1px solid #ccc;
+  display: flex;
+  flex-direction: column;
+  border: none;
+}
+.c-cmd--header {
+  background-color: rgb(39, 39, 39);
+  min-width: 100%;
+  min-height: 10%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-items: center;
+}
+.c-cmd--header .h--left {
+  width: 33%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  padding-left: 24px;
+}
+.c-cmd--header .h--left .addtab {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ccc;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: rgba(117, 117, 117, 0.562);
+}
+.c-cmd--header .h--center {
+  width: 43%;
+  display: flex;
+  text-align: center;
+  height: 100%;
+  color: #ccc;
+  font-size: 18px;
+  font-weight: 500;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+.c-cmd--header .h--center .hi-hand {
+  display: inline-block;
+  animation: wave 1.5s infinite;
+}
+.c-cmd--header .h--right {
+  width: 23%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: end;
+  padding-right: 24px;
+}
+.c-cmd--header .h--right .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 24px;
+  width: 24px;
+  cursor: pointer;
+  margin-right: 4px;
+  margin-left: 4px;
+  background-color: rgba(155, 153, 153, 0.534);
+  border-radius: 50%;
+  font-weight: 600;
+  font-size: 14px;
+}
+.c-cmd--header .h--right .icon--zoomin {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border: 2px solid rgb(212, 154, 29);
+}
+.c-cmd--header .h--right .icon--close {
+  color: rgb(218, 69, 32);
+}
+.c-cmd--header .h--right .icon--reduce {
+  color: rgb(191, 224, 42);
+  font-size: 16px;
+}/*# sourceMappingURL=cmd.css.map */
         </style>
-    <section class="w-cmd">
-
-        <div class="cmd-header">
-            <div class="h-actions">
-                <div class="h-actions--l">
-                    <div class="add-cmd">+</div>
+    <div class="c-cmd">
+        <!-- START HEADER -->
+            <div class="c-cmd--header">
+                <div class="h--left">
+                    <div class="addtab">+</div>
                 </div>
-                <div class="h-actions--c">
-                    <span class="cmd-profile-text">
-                        Welcome to my github profile <span class="waving-hand">👋</span> 
-                    </span>
+                <div class="h--center">
+                    Welcome to my github profile <span class="hi-hand">👋</span>
                 </div>
-                <div class="h-actions--r">
-                    <span class="cmd-act cmd-act--reduce">-</span>
-                    <span class="cmd-act cmd-act--zoomin"></span>
-                    <span class="cmd-act cmd-act--close">x</span>
-                </div>
-            </div>
-            <div class="h-tabs"></div>
-        </div>
-
-        <div class="cmd-body">
-            <div class="cmd-command">
-                <div class="line-style">🔥🚀 
-                    <span class="terminal-name"><span class="prefix">ulises@</span>terminal-github-dev</span>
-                    <span class="row-1">><span class="row-2">></span><span class="row-3">></span></span>
-                    <span class="writing-aboutme">
-                        <span class="bar bar-start"></span><span class="bar bar-middle"></span><span class="all-command"><span class="w-one">a</span><span class="w-two">b</span><span class="w-three">o</span><span class="w-four">u</span><span class="w-five">t</span><span class="w-six">-</span><span class="w-seven">m</span><span class="w-eight">e</span></span>
-                    </span>
+                <div class="h--right">
+                    <span class="icon icon--reduce">-</span>
+                    <div class="icon">
+                        <span class="icon--zoomin"></span>
+                    </div>
+                    <span class="icon icon--close">X</span>
                 </div>
             </div>
-           <div class="cmd-body--detail"> 
-          <div id="result-preview-wrap" class="preview-banner" style="font-size: 15px; "> 
-             _       __ __               
-            | |     /  / /_  ____      
-            | | /| /  / __ \/ __ \   
-            | |/ |/  / / / / /_/ /    
-            |__/|__ /_/ /_/\____/      
-            <div class="preview-banner preview-banner--end" style="font-size: 15px; ">
-                 ____ _____ ___ 
-                / __ `/ __ `__ \ 
-               / /_/ / / / / / / 
-               \__,_/_/ /_/ /_/    
-               <span class="end-banner">
-                 ____  ___         
-                /  _/ /__ \ 
-                / /    / _/
-              _/ /    /_/   
-             /___/   (_) 
-
-            </span> 
-            </div>                                                 
-            </div>
-            <div class="info">
-                <pre>
-                    <code>
-                      <span class="json-c">const </span><span class="json-c--name">me</span> =  {
-                       <span class="json-key">"name":</span><span class="json-value">"Ulises Sanchez"</span>,  
-                        University: <span class="json-value">"Insubria"</span>,
-                        email: <span class="json-value">""ulisess.sanchez@gmail.com</span>
-                        job: {
-                            currentPosition: <span class="json-value">"Software Enginer"</span>,
-                            technologies: [
-                                <span class="json-value">"Java"</span>,<span class="json-value">"Spring"</span>,<span class="json-value">"Hibernate"</span>,<span class="json-value">"Mysql"</span>,<span class="json-value">"JavaScript"</span>,<span class="json-value">"NodeJs"</span>,<span class="json-value">"Express"</span>,<span class="json-value">"Angular"</span>,
-                                <span class="json-value">"Docker"</span>,<span class="json-value">"Kubernetes"</span>,<span class="json-value">"Git"</spa
-                                <span class="json-value">"Docker"</span>,<span class="json-value">"Kubernetes"</span>,<span class="json-value">"Git"</span> 
-                            ]
-                        }
-                        personal: {
-                            hobbies: [ <span class="json-value">"Sport"</span>,<span class="json-value">"Write"</span>,<span class="json-value">"Read"</span>,<span class="json-value">"programming"</span>]
-                        }
-                        message:  <span class="json-value">"Thanks for visit my profile, contact me to any collaboration"</span>
-                    }
-                    </code>
-                </pre>
-            </div>
-        </div>
-        <div class="cmd-command end">
-            <div class="line-style">🔥🚀 
-                <span class="terminal-name"><span class="prefix">ulises@</span>terminal-github-dev</span>
-                <span class="row-1">><span class="row-2">></span><span class="row-3">></span></span>
-                <span class="writing-aboutme">
-                    <span class="bar infinite"></span>
-                </span>
-            </div>
-        </div>
+        <!-- END HEADER -->
     </div>
-</section>
+    </div>
     </foreignObject>
 </svg>
