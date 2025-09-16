@@ -2,6 +2,10 @@
   <img src="https://github.com/Ulisez/Ulisez/blob/profile/thriathlete_coder_header.png"/>
 </div>
 
+<div id="header" align="left" >
+  <img src="https://github.com/Ulisez/Ulisez/blob/profile/thriathlete-header-transparent.webp"/>
+</div>
+
 <!-- <div id="header" align="left" >
   <img src="https://github.com/Ulisez/Ulisez/blob/profile/avatar.png"/>
 </div> -->
