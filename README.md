@@ -1,9 +1,5 @@
 <div id="header" align="left" >
-  <img src="https://github.com/Ulisez/Ulisez/blob/profile/thriathlete_coder_header.png"/>
-</div>
-
-<div id="header" align="left" >
-  <img src="https://github.com/Ulisez/Ulisez/blob/profile/thriathlete-header-transparent.webp"/>
+  <img src="https://github.com/Ulisez/Ulisez/blob/profile/profile_header.png"/>
 </div>
 
 <!-- <div id="header" align="left" >
