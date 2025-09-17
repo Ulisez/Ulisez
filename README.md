@@ -1,18 +1,19 @@
-<div id="header" align="left" >
-  <img src="https://github.com/Ulisez/Ulisez/blob/profile/profile_header.png"/>
+<!--Banner-->
+![ulises Banner Image](./assets/banner.png)
+
+<!-- Start Intro -->
+# Hi you, I'm Ulises
+
+<div align="left">
+  <img align="left" src="./assets/avatar.png" width=50%/>
+  <div align="right">
+    Connect with me for a race ✨ 
+  </div>
 </div>
 
-<!-- <div id="header" align="left" >
-  <img src="https://github.com/Ulisez/Ulisez/blob/profile/avatar.png"/>
-</div> -->
+---
 
-<!-- <div id="aboutme" align="right" width="100%">
-  <img  src="https://github.com/Ulisez/Ulisez/blob/profile/profile.svg" width="100%"/>
-</div> -->
+<h2 align="center">Skills & Learning Roadmap</h2>
 
+<h2 align="center">Current Project</h2>
 
-
-<!---
-Ulisez/Ulisez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
